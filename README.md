@@ -19,3 +19,4 @@ It utilizes **OpenGL** and **C++** to generate models, set up ambient/directiona
 - [OpenGL](/https://www.opengl.org)
 - [glad](/https://github.com/Dav1dde/glad) (loader)
 - [glm](/https://github.com/g-truc/glm) (OpenGL math library)
+- [tinyobjectloader](/https://github.com/tinyobjloader/tinyobjloader) (.obj loader)
