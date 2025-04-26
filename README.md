@@ -15,7 +15,7 @@ It utilizes **OpenGL** and **C++** to generate models, set up ambient/directiona
 ![Scene at Disco](/asset/images/at_disco.jpg)
 
 # Requirements
-- OpenGL
 - C++
-- glad (loader)
-- glm (OpenGL math library)
+- [OpenGL](/https://www.opengl.org)
+- [glad](/https://github.com/Dav1dde/glad) (loader)
+- [glm](/https://github.com/g-truc/glm) (OpenGL math library)
